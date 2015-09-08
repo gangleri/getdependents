@@ -1,0 +1,29 @@
+{
+  "name": "getdependents",
+  "version": "1.0.0",
+  "description": "get dependencies for a module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gangleri/getdependents.git"
+  },
+  "keywords": [
+    "dev-tool",
+    "dependencies"
+  ],
+  "author": "Alan Bradley",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gangleri/getdependents/issues"
+  },
+  "homepage": "https://github.com/gangleri/getdependents#readme",
+  "dependencies": {
+    "querystring": "0.2.0"
+  },
+  "devDependencies": {
+    "tape": "4.2.0"
+  }
+}
